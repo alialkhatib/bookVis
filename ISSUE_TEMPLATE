@@ -1,0 +1,10 @@
+Please make sure to fill out all of the fields, even if you're just fixing an existing entry. Thanks!
+
+```JSON
+{
+  "title": "",  // put title in here
+  "author": "", // put author in here (helpful, but not strictly required)
+  "hours": 0,   // feel free to go to .01 precision, but at the moment I don't think we'll do anything with it
+  "words": 0    // No idea how useful this is. Antigone is 11k words, but i wouldn't call Harry Potter ~10x as much of an investment, you know?
+},
+```
